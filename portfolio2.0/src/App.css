@@ -1,38 +1,56 @@
+
+
 .App {
-  text-align: center;
+  height: 2000px;
+  width: 100vw;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Navbar container {
+  margin: 0 !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card {
+  position: absolute;
+  left: -2000px;
+  animation-name: slide;
+  animation-duration: 1s;
+  animation-delay: 250ms;
+  -webkit-animation-fill-mode: forwards;
+  margin: auto;
+  margin-top: 1rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#avatar {
+  position: relative;
+  left: -2000px;
+  animation-name: slide2;
+  animation-duration: 1s;
+  animation-delay: 100ms;
+  -webkit-animation-fill-mode: forwards;
 }
 
-.App-link {
-  color: #61dafb;
+.aboutMe {
+  position: relative;
+  left: -2000px;
+  animation-name: slide2;
+  animation-duration: 1s;
+  animation-delay: 1000ms;
+  -webkit-animation-fill-mode: forwards;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.grow {
+  transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+
+@keyframes slide {
+  100% {left: 10%;}
+}
+
+@keyframes slide2 {
+  100% {left: 0;}
 }
