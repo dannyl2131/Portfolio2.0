@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio2.0/static/css/main.d23f7be8.css",
+    "main.js": "/Portfolio2.0/static/js/main.5a9f4cd5.js",
+    "static/js/787.146a3669.chunk.js": "/Portfolio2.0/static/js/787.146a3669.chunk.js",
+    "static/media/fiscalfunhouse.png": "/Portfolio2.0/static/media/fiscalfunhouse.589f09aec8c020b2ef8a.png",
+    "static/media/Background.jpg": "/Portfolio2.0/static/media/Background.5129555e5a975b73488d.jpg",
+    "static/media/spacecowboys.png": "/Portfolio2.0/static/media/spacecowboys.1d94f1cc242c34fc0603.png",
+    "static/media/dayplanner.png": "/Portfolio2.0/static/media/dayplanner.cd731e34dad69b48e34d.png",
+    "static/media/Daniel_Lindquist_resume.docx": "/Portfolio2.0/static/media/Daniel_Lindquist_resume.e2403d5b1f62c0c52456.docx",
+    "static/media/notetaker.png": "/Portfolio2.0/static/media/notetaker.784d2b1ef93fbb433513.png",
+    "static/media/danny.jpg": "/Portfolio2.0/static/media/danny.2a38b5e6d684ba85c963.jpg",
+    "index.html": "/Portfolio2.0/index.html",
+    "main.d23f7be8.css.map": "/Portfolio2.0/static/css/main.d23f7be8.css.map",
+    "main.5a9f4cd5.js.map": "/Portfolio2.0/static/js/main.5a9f4cd5.js.map",
+    "787.146a3669.chunk.js.map": "/Portfolio2.0/static/js/787.146a3669.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d23f7be8.css",
+    "static/js/main.5a9f4cd5.js"
+  ]
+}
