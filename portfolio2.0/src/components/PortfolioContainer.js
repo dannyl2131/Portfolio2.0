@@ -7,7 +7,7 @@ import Footer from './Footer';
 import Resume from './Resume';
 
 export default function PortfolioContainer() {
-    const [currentPage, setCurrentPage] = useState('projects');
+    const [currentPage, setCurrentPage] = useState('about');
 
     const renderPage = () => {
         if(currentPage === 'about'){
