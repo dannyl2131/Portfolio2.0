@@ -3,6 +3,7 @@
 .App {
   height: 2000px;
   width: 100vw;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .Navbar container {

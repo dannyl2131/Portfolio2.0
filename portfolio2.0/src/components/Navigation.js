@@ -16,6 +16,7 @@ export default function Navigation({currentPage, handlePageChange}) {
               <Nav.Link onClick={() => handlePageChange('about')} href="#home" id="about">About</Nav.Link>
               <Nav.Link onClick={() => handlePageChange('projects')}href="#link" id="projects">Projects</Nav.Link>
               <Nav.Link onClick={() => handlePageChange('contact')}href="#contact" id="contact">Contact</Nav.Link>
+              <Nav.Link onClick={() => handlePageChange('resume')}href="#resume" id="contact">Resume</Nav.Link>
               
             </Nav>
           </Navbar.Collapse>
