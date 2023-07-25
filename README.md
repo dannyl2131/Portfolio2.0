@@ -1,5 +1,5 @@
 
-   #Portfolio 2.0
+  # Portfolio 2.0
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   This is my portfolio page for your viewing pleasure! Please feel free to reach out to me with any requests!
